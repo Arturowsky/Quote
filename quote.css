@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #2d3436;
+}
+.workspace {
+    display: grid;
+    place-items: center;
+    width: 100vw;
+    height: 50vh;
+}
+h1 {
+    font-family: 'Comfortaa', cursive;
+    color: #e84393;
+    font-size: 7rem;
+}
+p {
+    color: #fff;
+    font-size: 2rem;
+    line-break: auto;
+    padding: 0px 50px;
+    font-family: sans-serif;
+}
+.generator {
+    font-size: 1.2rem;
+    padding: 20px 20px;
+    background: #079992;
+    color: #fff;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+
